@@ -1,0 +1,60 @@
+/*Write your CSS in here*/
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:200,300,400,500,600,700,900);
+
+/*peekaboo!*/
+/*also you gt connect the files!*/
+
+h1 {
+    color: lightsalmon;
+    font-weight: 200;
+    font-size: 40px;
+    border-top: 3px solid;    
+
+}
+
+body {
+    background-color: aliceblue;
+    color: lightsalmon;
+    font-family: "Source Code Pro";
+    font-weight: 200;
+}
+
+button {
+    font: inherit;
+    font-size: 14px;
+    text-align: center;
+    color: lightsalmon;
+    background-color: aliceblue;
+    border: 1px solid lightsalmon;
+    text-decoration: none;
+    outline: none;
+    margin: 30px auto 0;
+    letter-spacing: 1px;
+    padding: 20px 25px;
+
+}
+
+button:hover {
+    transition: 0.3s;
+    background-color: lightsalmon;
+    color: aliceblue;
+    text-decoration: underline;
+
+}
+
+img {
+    height: 500px;
+    border-radius: 10%;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+p {
+    font-size: 20px;
+}
