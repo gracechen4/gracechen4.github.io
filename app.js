@@ -2,9 +2,9 @@
 alert("hi! haha sorry i always hated these alert thingys and thought it was rlly funny that i could make one ~ jk this is a virus dun dun dun");
 
 pics = [
-	"/imgs/grace.jpeg",
-	"/imgs/group.jpg", 
-	"/imgs/pilar.jpg",
+	"imgs/grace.jpeg",
+	"imgs/group.jpg", 
+	"imgs/pilar.jpg",
 	"imgs/fernanda.jpeg",
 	"imgs/mae.jpeg",
 	"imgs/sindu.jpg", 
