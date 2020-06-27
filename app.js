@@ -2,7 +2,7 @@
 alert("hi! haha sorry i always hated these alert thingys and thought it was rlly funny that i could make one ~ jk this is a virus dun dun dun");
 
 pics = [
-	"/Users/grace/html/gracechen4.github.io/imgs/grace.jpeg",
+	"imgs/grace.jpeg",
 	"/Users/grace/html/gracechen4.github.io/imgs/group.jpg", 
 	"/Users/grace/html/gracechen4.github.io/imgs/pilar.jpg",
 	"/Users/grace/html/gracechen4.github.io/imgs/fernanda.jpeg",
