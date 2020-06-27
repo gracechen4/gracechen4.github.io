@@ -24,7 +24,7 @@ var img = document.querySelector("img");
 var counter = 1;
 
 btn.addEventListener("click", function(){
-	if (counter === 14){counter = 0;}
+	if (counter === 15){counter = 0;}
 	img.src = pics[counter];
 	counter = counter + 1;
 });
