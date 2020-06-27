@@ -16,7 +16,7 @@ pics = [
 	"imgs/sindu1.jpg", 
 	"imgs/pilar2.jpg",
 	"imgs/alisha1.jpeg",
-	"imgs/avery1.jpg",
+	"imgs/avery1.jpg"
 ]
 
 var btn = document.querySelector("button");
