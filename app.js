@@ -2,21 +2,21 @@
 alert("hi! haha sorry i always hated these alert thingys and thought it was rlly funny that i could make one ~ jk this is a virus dun dun dun");
 
 pics = [
-	"/Users/grace/html/imgs/grace.jpeg",
-	"/Users/grace/html/imgs/group.jpg", 
-	"/Users/grace/html/imgs/pilar.jpg",
-	"/Users/grace/html/imgs/fernanda.jpeg",
-	"/Users/grace/html/imgs/mae.jpeg",
-	"/Users/grace/html/imgs/sindu.jpg", 
-	"/Users/grace/html/imgs/alisha.jpg",
-	"/Users/grace/html/imgs/avery.jpeg",
-	"/Users/grace/html/imgs/pilar1.jpg",
-	"/Users/grace/html/imgs/fernanda1.jpeg",
-	"/Users/grace/html/imgs/mae1.jpeg",
-	"/Users/grace/html/imgs/sindu1.jpg", 
-	"/Users/grace/html/imgs/pilar2.jpg",
-	"/Users/grace/html/imgs/alisha1.jpeg",
-	"/Users/grace/html/imgs/avery1.jpg",
+	"/Users/grace/html/gracechen4.github.io/imgs/grace.jpeg",
+	"/Users/grace/html/gracechen4.github.io/imgs/group.jpg", 
+	"/Users/grace/html/gracechen4.github.io/imgs/pilar.jpg",
+	"/Users/grace/html/gracechen4.github.io/imgs/fernanda.jpeg",
+	"/Users/grace/html/gracechen4.github.io/imgs/mae.jpeg",
+	"/Users/grace/html/gracechen4.github.io/imgs/sindu.jpg", 
+	"/Users/grace/html/gracechen4.github.io/imgs/alisha.jpg",
+	"/Users/grace/html/gracechen4.github.io/imgs/avery.jpeg",
+	"/Users/grace/html/gracechen4.github.io/imgs/pilar1.jpg",
+	"/Users/grace/html/gracechen4.github.io/imgs/fernanda1.jpeg",
+	"/Users/grace/html/gracechen4.github.io/imgs/mae1.jpeg",
+	"/Users/grace/html/gracechen4.github.io/imgs/sindu1.jpg", 
+	"/Users/grace/html/gracechen4.github.io/imgs/pilar2.jpg",
+	"/Users/grace/html/gracechen4.github.io/imgs/alisha1.jpeg",
+	"/Users/grace/html/gracechen4.github.io/imgs/avery1.jpg",
 ]
 
 var btn = document.querySelector("button");
